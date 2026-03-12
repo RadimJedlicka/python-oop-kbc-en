@@ -1,0 +1,11 @@
+Hello, World!
+
+This is a simple text file.
+It contains multiple lines of plain text.
+
+Features:
+- Easy to read
+- Simple format
+- Perfect for storing notes
+
+Thank you for using this file!
